@@ -1,6 +1,0 @@
-libgit-fields
-prim_min_match_characters
-	"This method was automatically generated"
-	<primitive: #primitiveNativeCall module: #NativeBoostPlugin error: errorCode>
-	
-	^ self fieldAt: #prim_min_match_characters
