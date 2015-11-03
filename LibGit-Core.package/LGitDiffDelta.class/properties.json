@@ -1,0 +1,14 @@
+{
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaxLeske 7/4/2015 17:03",
+	"instvars" : [
+		 ],
+	"name" : "LGitDiffDelta",
+	"pools" : [
+		 ],
+	"super" : "LGitExternalStructure",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaxLeske 8/13/2015 13:20",
+	"instvars" : [
+		 ],
+	"name" : "LGitRemoteCallbacks",
+	"pools" : [
+		 ],
+	"super" : "LGitStructWithDefaults",
+	"type" : "normal" }
