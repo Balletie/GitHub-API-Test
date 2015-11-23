@@ -1,0 +1,4 @@
+testing
+isEpiceaInterestingJobOwner
+
+	^ true

@@ -1,0 +1,21 @@
+{
+	"category" : "GitHub-Tool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"RememberedAuthenticated" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"logBrowser",
+		"repositoryDropDown",
+		"branchesDropDown",
+		"checkoutButton",
+		"commitButton",
+		"authenticatedAPI",
+		"authenticatedUser",
+		"createBranchButton" ],
+	"name" : "GitHubTool",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

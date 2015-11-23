@@ -1,0 +1,16 @@
+{
+	"category" : "GitHub-Tool",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sha",
+		"packageNames",
+		"repositoryUrl" ],
+	"name" : "GHEpVersionCheckout",
+	"pools" : [
+		 ],
+	"super" : "EpEvent",
+	"type" : "normal" }
