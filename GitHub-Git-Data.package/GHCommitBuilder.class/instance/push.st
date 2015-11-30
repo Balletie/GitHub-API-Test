@@ -1,0 +1,4 @@
+building
+push
+
+	^ workBlock value
