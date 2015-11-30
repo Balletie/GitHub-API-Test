@@ -1,4 +1,3 @@
 as yet unclassified
 testMethodForGriotte
-
-	^ 'foo'
+	^ self foo
