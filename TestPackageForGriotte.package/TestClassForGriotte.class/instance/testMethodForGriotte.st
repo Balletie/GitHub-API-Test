@@ -1,3 +1,3 @@
 as yet unclassified
 testMethodForGriotte
-	^ self foo
+	^ self bar
