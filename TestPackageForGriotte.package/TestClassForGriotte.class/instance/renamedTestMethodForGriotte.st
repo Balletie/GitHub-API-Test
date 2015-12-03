@@ -1,3 +1,3 @@
 as yet unclassified
-testMethodForGriotte
+renamedTestMethodForGriotte
 	^ self bar
