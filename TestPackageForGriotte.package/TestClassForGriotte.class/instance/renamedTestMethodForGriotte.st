@@ -1,3 +1,3 @@
 as yet unclassified
 renamedTestMethodForGriotte
-	^ self bar , 'hello'
+	^ self bar , 'hello there'
