@@ -1,3 +1,3 @@
 as yet unclassified
 bar
-	^ 'bar'
+	^ 'barbar'
